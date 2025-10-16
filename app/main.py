@@ -3,7 +3,7 @@ from typing import List
 from app.models import Item, ItemCreate
 
 app = FastAPI(
-    title="Tasks API",
+    title="Tasks API - Juan Manuel Rivera Cabezas",
     version="1.0.0"
 )
 
